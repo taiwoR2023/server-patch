@@ -1,4 +1,4 @@
-pipeline {
+ pipeline {
   agent {
     label 'ansible-server'
   }
@@ -12,4 +12,4 @@ pipeline {
     }
     
   }
-}
+}   
